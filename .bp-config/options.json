@@ -1,4 +1,4 @@
 {
- "ADMIN_EMAIL": "bobtndm@gmail.com",
+ "ADMIN_EMAIL": "draffiando@gmail.com",
  "PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "curl"]
 }
